@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.AssemblyInfo.cs
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\bin\Debug\net6.0\finding the maximum number.exe
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\bin\Debug\net6.0\finding the maximum number.deps.json
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\bin\Debug\net6.0\finding the maximum number.runtimeconfig.json
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\bin\Debug\net6.0\finding the maximum number.dll
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\bin\Debug\net6.0\finding the maximum number.pdb
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.dll
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\refint\finding the maximum number.dll
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.pdb
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\finding the maximum number.genruntimeconfig.cache
+C:\Users\User\Desktop\examples-\examples--\finding the maximum number\obj\Debug\net6.0\ref\finding the maximum number.dll
